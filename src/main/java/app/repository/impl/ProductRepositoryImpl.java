@@ -5,7 +5,6 @@ import app.common.search.PageSearchResult;
 import app.common.utils.SearchUtils;
 import app.enums.MeasurementUnit;
 import app.model.Product;
-import app.model.QProduct;
 import app.repository.ProductRepositoryCustom;
 import app.search.ProductSearchCriteria;
 
